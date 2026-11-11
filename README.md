@@ -1,14 +1,14 @@
 # WinLocal Giveaways – AWS Cloud Architecture
 
 **Module:** Security Architecture (COMP H2701), TU Dublin
-**Author:** Nathan Mooney (B00169691)
+**Author:** Nathan Mooney
 
 ## Files
 
 | File | Description |
 | --- | --- |
 | `AWSDiagram.drawio` | AWS architecture diagram of the proposed WinLocal cloud setup (editable in [diagrams.net](https://app.diagrams.net)). |
-| `SecArcB00169691ReportNM.docx` | Written report covering the design, Proof of Concept (PoC), extra services and sustainability analysis. |
+| `SecArcReport.docx` | Written report covering the design, Proof of Concept (PoC), extra services and sustainability analysis. |
 
 ## About the Project
 
